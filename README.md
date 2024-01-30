@@ -1,4 +1,4 @@
-# Local-Storage-Project
+# Local-Storage-Project - https://iamsurbhi1503.github.io/Local-Storage-Project/
 
 This script allows users to save and retrieve text entered into a textarea using local storage. It includes functionality to automatically populate the textarea with previously saved text and updates the local storage whenever the user makes changes.
 
